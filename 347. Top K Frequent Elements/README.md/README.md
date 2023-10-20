@@ -12,7 +12,7 @@ hash:
 [key: frequency] = [1:3, 2:2, 3:1]
 ```
 
-As k elements with maximum number of appearances need to be shown, the frequency and elements can be paired to preserve it before sorting, otherwise it will be lost.
+As k elements with maximum number of appearances need to be shown, the frequency and elements can be paired to preserve elements according to its frequency before sorting, otherwise the elements will be lost.
 
 ```
 freq_index_pair: [(3, 1), (2, 2), (1, 3)]
