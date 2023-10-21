@@ -14,7 +14,7 @@ If the length of both strings are not equal, then there must be a letter missing
 
 # Code
 
-```
+```c++
 class Solution {
 public:
     bool isAnagram(string s, string t) {

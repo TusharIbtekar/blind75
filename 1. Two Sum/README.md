@@ -25,7 +25,7 @@ So, hash_map[2] has index 3, and hash_map[4] has index 2.
 
 # Code
 
-```
+```c++
 class Solution {
 public:
   vector<int> twoSum(vector<int>& nums, int target) {

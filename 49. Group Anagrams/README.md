@@ -26,7 +26,7 @@ With this, the list is created.
 
 # Code
 
-```
+```c++
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {

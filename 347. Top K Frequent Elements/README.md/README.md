@@ -29,7 +29,7 @@ Now soring it gives the orders accordingly, just taking first k elements will do
 
 # Code
 
-```
+```c++
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {

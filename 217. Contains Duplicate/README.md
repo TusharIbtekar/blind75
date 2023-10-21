@@ -14,7 +14,7 @@ STL set takes only the distinct numbers and sorts it. So, by using set and then 
 
 # Code
 
-```
+```c++
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
