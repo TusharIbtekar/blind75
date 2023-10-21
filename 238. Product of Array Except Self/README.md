@@ -6,7 +6,7 @@ By calculating the products of the array and then dividing it by current element
 
 First, need to calculate the product of the elements of the array. There are two observations:
 
-- if the array contains more than two zeros, then every element of the `ans` array will be zero.
+- if the array contains more than one zero, then every element of the `ans` array will be zero.
 - if only one of the element is zero, then every element except that will be zero.
 - if there is no zero, then simply dividing the product with current element and putting it in `ans` array does the trick.
 
