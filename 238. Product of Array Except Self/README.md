@@ -14,7 +14,7 @@ First, need to calculate the product of the elements of the array. There are two
 
 - Time complexity: O(n)
 
-- Space complexity: O(n)
+- Space complexity: O(1)
 
 # Code
 
